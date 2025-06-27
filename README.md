@@ -57,7 +57,7 @@ MLPClassifier (Artificial Neural Network) model has been trained using diabetes 
 The model is saved in .sav format using pickle and loaded in app.py.
 
 ## 🔗 Links
-- 📂 [GitHub Repository](https://github.com/ibnurico/-HOME-CREDIT-Final-Task-Data-Scientist)
+- 📂 [GitHub Repository](https://github.com/IbnuRicho/Diabetes-Prediction)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibnurichokurniawan/)
 
 ---
