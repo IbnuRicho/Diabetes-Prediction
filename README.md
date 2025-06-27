@@ -55,3 +55,6 @@ MLPClassifier (Artificial Neural Network) model has been trained using diabetes 
 - Blood Glucose
   
 The model is saved in .sav format using pickle and loaded in app.py.
+
+## 📜 License
+This project is free to use for educational, research, and development purposes. For commercial use, please include proper attribution.
