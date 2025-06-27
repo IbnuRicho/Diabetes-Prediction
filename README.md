@@ -56,5 +56,10 @@ MLPClassifier (Artificial Neural Network) model has been trained using diabetes 
   
 The model is saved in .sav format using pickle and loaded in app.py.
 
-## 📜 License
-This project is free to use for educational, research, and development purposes. For commercial use, please include proper attribution.
+## 🔗 Links
+- 📂 [GitHub Repository](https://github.com/ibnurico/-HOME-CREDIT-Final-Task-Data-Scientist)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibnurichokurniawan/)
+
+---
+
+> 🧠 *"With data, we empower financial inclusion and fair credit decisions."*
